@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84135c5a-a88e-414d-a046-80af726a19d0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/views/administratorPanel/productInventory/productDetails.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/views/administratorPanel/productInventory/productDetails.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/common/css/productCommon.less" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/common/css/productCommon.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/common/lang/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/common/lang/en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/components/template/listDetails.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/components/template/listDetails.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/components/template/shopDetails.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/components/template/shopDetails.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/components/template/shopProduct.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/components/template/shopProduct.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/components/template/shopTrolley.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/components/template/shopTrolley.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/components/template/subSuccessfully.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/components/template/subSuccessfully.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/components/template/submitOrder.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/components/template/submitOrder.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/views/administratorPanel/onlineStore/optionalModule.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/views/administratorPanel/onlineStore/optionalModule.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/views/administratorPanel/productInventory/addShop.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/views/administratorPanel/productInventory/addShop.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/views/administratorPanel/productInventory/allProducts.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/views/administratorPanel/productInventory/allProducts.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/views/administratorPanel/productInventory/bulkEdit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/views/administratorPanel/productInventory/bulkEdit.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/views/administratorPanel/productInventory/inventory.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/views/administratorPanel/productInventory/inventory.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/views/administratorPanel/productInventory/productDetails.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/views/administratorPanel/productInventory/productDetails.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/views/administratorPanel/productInventory/productLine.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/views/administratorPanel/productInventory/productLine.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/views/administratorPanel/productInventory/productLineDetail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/views/administratorPanel/productInventory/productLineDetail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/views/administratorPanel/settings/setDetail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/views/administratorPanel/settings/setDetail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/views/administratorPanel/settings/userControl.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/views/administratorPanel/settings/userControl.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/views/loginAndRegister/AnextShopPwd.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/views/loginAndRegister/AnextShopPwd.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/views/loginAndRegister/AregMessage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/views/loginAndRegister/AregMessage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/views/loginAndRegister/forgetPassword.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/views/loginAndRegister/forgetPassword.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/views/loginAndRegister/forgetShop.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/views/loginAndRegister/forgetShop.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/src/views/loginAndRegister/resetPasswords.vue" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/src/views/loginAndRegister/resetPasswords.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pc/dist.zip" beforeDir="false" afterPath="$PROJECT_DIR$/pc/dist.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pc/src/views/administratorPanel/productInventory/addShop.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pc/src/views/administratorPanel/productInventory/addShop.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pc/src/views/administratorPanel/productInventory/productDetails.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pc/src/views/administratorPanel/productInventory/productDetails.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pc/src/views/loginAndRegister/AregMessage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pc/src/views/loginAndRegister/AregMessage.vue" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5587798">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/src/router.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2450">
+                  <caret line="161" column="28" selection-start-line="161" selection-start-column="28" selection-end-line="161" selection-end-column="28" />
+                  <folding>
+                    <element signature="e#0#21#0" expanded="true" />
+                    <element signature="e#116#2134#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pc/vue.config.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="150">
+                  <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pc/src/views/administratorPanel/productInventory/addShop.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="441">
+                  <caret line="322" column="64" lean-forward="true" selection-start-line="322" selection-start-column="64" selection-end-line="322" selection-end-column="64" />
+                  <folding>
+                    <element signature="n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#template#0;n#div#1;n#div#0;n#el-form-item#5;n#el-form#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/pc/src/views/administratorPanel/productInventory/productDetails.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="166">
+                  <caret line="489" column="91" selection-start-line="489" selection-start-column="91" selection-end-line="489" selection-end-column="91" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pc/src/common/css/elementCommon.less">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="125">
+                  <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/pc/src/views/administratorPanel/productInventory/addShop.vue">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="141">
+                  <caret line="1178" column="51" selection-start-line="1178" selection-start-column="51" selection-end-line="1178" selection-end-column="51" />
+                  <folding>
+                    <element signature="n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#template#0;n#div#1;n#div#0;n#el-form-item#5;n#el-form#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+                    <element signature="n#el-dialog#1;n#div#0;n#template#0;n#!!top" />
+                    <element signature="n#el-dialog#2;n#div#0;n#template#0;n#!!top" />
+                    <element signature="n#el-dialog#3;n#div#0;n#template#0;n#!!top" />
+                    <element signature="e#43366#46714#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>forgetShop-form</find>
+      <find>addShop</find>
+      <find>add-header</find>
+      <find>.allProducts</find>
+      <find>thead</find>
+      <find>inventory</find>
+      <find>td-imgBox</find>
+      <find>linkA</find>
+      <find>rem</find>
+      <find>el-input-number</find>
+      <find>updateNum</find>
+      <find>5.625rem</find>
+      <find>compileNum</find>
+      <find>saveBtn</find>
+      <find>reload</find>
+      <find>allProducts</find>
+      <find>up-img-box</find>
+      <find>productDetails</find>
+      <find>MultiattributeDetail</find>
+      <find>multiple-header</find>
+      <find>editOptions-box1</find>
+      <find>tem</find>
+      <find>menu</find>
+      <find>xiuShi</find>
+      <find>location</find>
+      <find>profit</find>
+      <find>editData</find>
+      <find>cangKuNum</find>
+      <find>sumNum</find>
+      <find>activeTwo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/views/registerAndForgetPwd/register.vue" />
+        <option value="$PROJECT_DIR$/app/src/main.js" />
+        <option value="$PROJECT_DIR$/app/src/common/lang/zh.js" />
+        <option value="$PROJECT_DIR$/app/src/common/lang/en.js" />
+        <option value="$PROJECT_DIR$/app/src/views/registerAndForgetPwd/regMessage.vue" />
+        <option value="$PROJECT_DIR$/app/src/views/registerAndForgetPwd/resetPassword.vue" />
+        <option value="$PROJECT_DIR$/app/src/views/registerAndForgetPwd/nextRegister.vue" />
+        <option value="$PROJECT_DIR$/app/src/components/registerAndForgetPwd/nextRegister.vue" />
+        <option value="$PROJECT_DIR$/app/src/components/registerAndForgetPwd/regMessage.vue" />
+        <option value="$PROJECT_DIR$/app/src/components/registerAndForgetPwd/resetPassword.vue" />
+        <option value="$PROJECT_DIR$/app/src/components/registerAndForgetPwd/forgetPassword.vue" />
+        <option value="$PROJECT_DIR$/app/src/views/registerAndForgetPwd/forgetPassword.vue" />
+        <option value="$PROJECT_DIR$/app/src/components/registerAndForgetPwd/forgetShop.vue" />
+        <option value="$PROJECT_DIR$/app/src/views/registerAndForgetPwd/forgetShop.vue" />
+        <option value="$PROJECT_DIR$/app/src/views/loginAndRegister/AregMessage.vue" />
+        <option value="$PROJECT_DIR$/mobile/src/main.js" />
+        <option value="$PROJECT_DIR$/mobile/package.json" />
+        <option value="$PROJECT_DIR$/mobile/src/views/loginAndRegister/forgetShop.vue" />
+        <option value="$PROJECT_DIR$/mobile/src/router.js" />
+        <option value="$PROJECT_DIR$/app/src/views/administratorPanel/productInventory/addShop.vue" />
+        <option value="$PROJECT_DIR$/app/src/common/css/addShop.less" />
+        <option value="$PROJECT_DIR$/mobile/src/views/administratorPanel/productInventory/allProducts.vue" />
+        <option value="$PROJECT_DIR$/app/src/views/administratorPanel/productInventory/allProducts.vue" />
+        <option value="$PROJECT_DIR$/app/src/App.vue" />
+        <option value="$PROJECT_DIR$/app/src/views/administratorPanel/productInventory/inventory.vue" />
+        <option value="$PROJECT_DIR$/app/src/views/administratorPanel/productInventory/productLine.vue" />
+        <option value="$PROJECT_DIR$/app/src/common/css/productDetails.less" />
+        <option value="$PROJECT_DIR$/app/src/common/css/productCommon.less" />
+        <option value="$PROJECT_DIR$/app/src/router.js" />
+        <option value="$PROJECT_DIR$/app/src/views/administratorPanel/productInventory/multiattributeDetail.vue" />
+        <option value="$PROJECT_DIR$/app/src/views/administratorPanel/productInventory/productDetails.vue" />
+        <option value="$PROJECT_DIR$/pc/vue.config.js" />
+        <option value="$PROJECT_DIR$/pc/src/views/loginAndRegister/AregMessage.vue" />
+        <option value="$PROJECT_DIR$/pc/src/views/administratorPanel/productInventory/addShop.vue" />
+        <option value="$PROJECT_DIR$/pc/src/views/administratorPanel/productInventory/productDetails.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="edgemarket-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edgemarket-frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edgemarket-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edgemarket-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="pc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edgemarket-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edgemarket-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="pc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edgemarket-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edgemarket-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="pc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edgemarket-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edgemarket-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="pc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edgemarket-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edgemarket-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="pc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edgemarket-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edgemarket-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="pc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="administratorPanel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edgemarket-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edgemarket-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="pc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="administratorPanel" type="462c0819:PsiDirectoryNode" />
+              <item name="productInventory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edgemarket-frontend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edgemarket-frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="pc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="loginAndRegister" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/common" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Edgeless003\Desktop\PC+移动登录注册\edgemarket-frontend\app\src\common" />
+      <recent name="C:\Users\Edgeless003\Desktop\PC+移动登录注册\edgemarket-frontend\app\src" />
+      <recent name="C:\Users\Edgeless003\Desktop\PC+移动登录注册\edgemarket-frontend\app\src\assets\pwdImg" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84135c5a-a88e-414d-a046-80af726a19d0" name="Default Changelist" comment="" />
+      <created>1562548996807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562548996807</updated>
+      <workItem from="1562549000367" duration="26584000" />
+      <workItem from="1564968255946" duration="385000" />
+      <workItem from="1576134202426" duration="743000" />
+      <workItem from="1576633590000" duration="3596000" />
+      <workItem from="1576637611631" duration="9893000" />
+      <workItem from="1576655453213" duration="579000" />
+      <workItem from="1576736989289" duration="440000" />
+      <workItem from="1576821047113" duration="1577000" />
+      <workItem from="1576826010590" duration="6371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50168000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24032739" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909092" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49905482" visible="true" weight="0.04918033" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50094515" side_tool="true" weight="0.32740214" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/common/lang/en.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="86" column="17" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#275#307#0" expanded="true" />
+            <element signature="e#401#467#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/views/registerAndForgetPwd/regMessage.vue" />
+    <entry file="file://$PROJECT_DIR$/app/src/components/registerAndForgetPwd/resetPassword.vue" />
+    <entry file="file://$PROJECT_DIR$/app/src/components/registerAndForgetPwd/nextRegister.vue" />
+    <entry file="file://$PROJECT_DIR$/app/src/components/registerAndForgetPwd/regMessage.vue" />
+    <entry file="file://$PROJECT_DIR$/app/src/views/registerAndForgetPwd/resetPassword.vue" />
+    <entry file="file://$PROJECT_DIR$/app/src/views/registerAndForgetPwd/forgetPassword.vue" />
+    <entry file="file://$PROJECT_DIR$/app/src/components/registerAndForgetPwd/forgetPassword.vue" />
+    <entry file="file://$PROJECT_DIR$/app/src/views/registerAndForgetPwd/forgetShop.vue" />
+    <entry file="file://$PROJECT_DIR$/app/src/components/registerAndForgetPwd/forgetShop.vue" />
+    <entry file="file://$PROJECT_DIR$/app/src/views/registerAndForgetPwd/nextRegister.vue" />
+    <entry file="file://$PROJECT_DIR$/app/src/views/administratorPanel/onlineStore/templeteFour.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9559" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/views/administratorPanel/onlineStore/templeteOne.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6017" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pc/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/views/loginAndRegister/ARegisterOfIndex.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="62" column="12" lean-forward="true" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/common/enValidator.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/common/cityData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/views/loginAndRegister/AregMessage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="144" column="19" lean-forward="true" selection-start-line="144" selection-start-column="19" selection-end-line="144" selection-end-column="19" />
+          <folding>
+            <element signature="e#4239#4281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pc/postcss.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/babel.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/postcss.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/yarn.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/postcss.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/src/views/loginAndRegister/forgetShop.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="124" column="20" lean-forward="true" selection-start-line="124" selection-start-column="20" selection-end-line="124" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/src/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="246" column="40" selection-start-line="246" selection-start-column="40" selection-end-line="246" selection-end-column="91" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#3024#4676#0" />
+            <element signature="e#4703#4943#0" />
+            <element signature="e#4951#5183#0" />
+            <element signature="e#5191#5419#0" />
+            <element signature="e#5427#5671#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/views/administratorPanel/productInventory/addShop.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/common/css/addShop.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="53" column="11" lean-forward="true" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#141#185#0" expanded="true" />
+            <element signature="e#285#344#0" expanded="true" />
+            <element signature="e#480#505#0" expanded="true" />
+            <element signature="e#547#579#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/src/views/administratorPanel/productInventory/allProducts.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="305" column="16" lean-forward="true" selection-start-line="305" selection-start-column="16" selection-end-line="305" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/views/administratorPanel/productInventory/allProducts.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="465" column="5" lean-forward="true" selection-start-line="465" selection-start-column="5" selection-end-line="465" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/common/css/elementCommon.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/views/administratorPanel/productInventory/inventory.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="52" column="26" lean-forward="true" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#tbody#0;n#table#0;n#div#2;n#div#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/common/css/productCommon.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="230" column="10" lean-forward="true" selection-start-line="230" selection-start-column="10" selection-end-line="230" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/common/css/productDetails.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="64" column="15" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/views/administratorPanel/productInventory/productLine.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7800">
+          <caret line="312" column="16" selection-start-line="312" selection-start-column="16" selection-end-line="312" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/views/administratorPanel/productInventory/productDetails.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="895" column="18" lean-forward="true" selection-start-line="895" selection-start-column="18" selection-end-line="895" selection-end-column="18" />
+          <folding>
+            <element signature="e#48729#91332#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/views/administratorPanel/productInventory/multiattributeDetail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="340" column="78" lean-forward="true" selection-start-line="340" selection-start-column="78" selection-end-line="340" selection-end-column="78" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/vue.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2450">
+          <caret line="161" column="28" selection-start-line="161" selection-start-column="28" selection-end-line="161" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#116#2134#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/views/administratorPanel/onlineStore/templateFive.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2625">
+          <caret line="105" column="22" selection-start-line="105" selection-start-column="22" selection-end-line="105" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pc/src/common/css/elementCommon.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pc/vue.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pc/src/views/loginAndRegister/AregMessage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="83" column="33" lean-forward="true" selection-start-line="83" selection-start-column="33" selection-end-line="83" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pc/src/components/template/submitOrder.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5425">
+          <caret line="435" column="29" lean-forward="true" selection-start-line="435" selection-start-column="29" selection-end-line="435" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pc/src/views/administratorPanel/productInventory/addShop.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="322" column="64" lean-forward="true" selection-start-line="322" selection-start-column="64" selection-end-line="322" selection-end-column="64" />
+          <folding>
+            <element signature="n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#template#0;n#div#1;n#div#0;n#el-form-item#5;n#el-form#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pc/src/views/administratorPanel/productInventory/productDetails.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="489" column="91" selection-start-line="489" selection-start-column="91" selection-end-line="489" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

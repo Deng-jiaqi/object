@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+  <title>EDGEMARKET</title>
+  <script>
+    if (/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) { // 手机上访问pc时重定向到手机
+      let url = window.location.href
+      if (url.indexOf('pc') !== -1) {
+        url = url.replace('pc', 'mobile', 1)
+        window.location.href = url + ''
+      }
+      // 移动端操作
+    } else {
+      // PC端操作
+    }
+  </script>
+  <!-- 引入Vue.js -->
+  <script src="https://cdn.staticfile.org/vue/2.6.10/vue.min.js"></script>
+  <script src="https://cdn.staticfile.org/element-ui/2.12.0/index.js"></script>
+  <!-- <script src="https://cdn.bootcss.com/element-ui/2.12.0/index.js"></script> -->
+  <!-- <script src="https://unpkg.com/element-ui@2.12.0/lib/index.js"></script> -->
+</head>
+
+<body>
+  <noscript>
+    <strong>We're sorry but wujimall doesn't work properly without JavaScript enabled. Please enable it to
+      continue.</strong>
+  </noscript>
+  <div id="app"></div>
+  <!-- built files will be auto injected -->
+</body>
+
+</html>

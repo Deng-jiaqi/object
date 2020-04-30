@@ -1,0 +1,105 @@
+.flexCss{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.flexBetween{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.flexDirection{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.blackColor{
+  color: black;
+  font-size: 20px;
+}
+.tui-checkbox:checked {
+  background: white;
+  border: solid 1px #385ca5;
+  border-radius: 2px;
+  transition: all 0.3s;
+}
+.tui-checkbox {
+  outline: none;
+  width: 20px;
+  height: 20px;
+  background-color: #DCDFE6;
+  border: solid 1px #DCDFE6;
+  border-radius: 1px;
+  font-size: 0.8rem;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  cursor: default;
+  -webkit-appearance: none;
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-transition: background-color ease 0.6s;
+  transition: all 0.3s;
+}
+.tui-checkbox:checked::after {
+  content: '';
+  top: 5px;
+  left: 4px;
+  position: absolute;
+  background: transparent;
+  border: 2px solid #385ca5;
+  border-top: none;
+  border-right: none;
+  height: 4px;
+  width: 8px;
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+.imgCss{
+  .flexCss;
+  >img{
+    max-height: 100%;
+    max-width: 100%;
+  }
+}
+.add-black {
+  color: #4267B2;
+  font-size: 18px;
+  cursor: pointer;
+}
+.header-h1{
+  font-size: 30px;
+  color: black;
+  font-weight: bold;
+}
+.text-hide{
+  width: 160px;
+  overflow:hidden; /*溢出的部分隐藏*/
+  white-space: nowrap; /*文本不换行*/
+  text-overflow:ellipsis;
+  margin: auto;
+}
+.text-hideTwo{
+  width: 160px;
+  text-align: left;
+  overflow:hidden; /*溢出的部分隐藏*/
+  white-space: nowrap; /*文本不换行*/
+  text-overflow:ellipsis;
+}
+.text-hideThree{
+  width: 300px;
+  text-align: left;
+  overflow:hidden; /*溢出的部分隐藏*/
+  white-space: nowrap; /*文本不换行*/
+  text-overflow:ellipsis;
+}
+.text-hideFour{
+  .text-hideTwo;
+  width: 100px;
+}
+
